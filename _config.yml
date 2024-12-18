@@ -1,1 +1,9 @@
 theme: minima
+footer:
+  copyright: "wgalka © 2024"
+  powered_by: true
+  social_links:
+    - name: GitHub
+      url: https://github.com/username
+    - name: Twitter
+      url: https://twitter.com/yourhandle
