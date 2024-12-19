@@ -2,13 +2,15 @@
 title: "Supplementary materials"
 layout: page
 ---
-
+<head>
 <style>
     .caption-title{
         font-weight: 400;
         collor:rgb(56, 56, 223)
     }
 </style>
+</head>
+
 
 ## Neural networks architectures
 
