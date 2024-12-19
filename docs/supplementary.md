@@ -3,7 +3,7 @@ title: "Supplementary materials"
 layout: page
 ---
 
-page paragraph
+## cnn1d
 
 <figure>
   <img src="../media/cnn1d.svg" alt="Convolutional neural network 1D">
