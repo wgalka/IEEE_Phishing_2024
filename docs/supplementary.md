@@ -24,26 +24,16 @@ layout: page
 </figure>
 
 <figure>
-  <img src="../media/cnn1d.svg" alt="Convolutional neural network 1D">
-  <figcaption><span class="caption-title">FIGURE S1.</span> Architecture of first feed forward neural network</figcaption>
+  <img src="../media/cnn2d.svg" alt="Convolutional neural network 2 dimmensional architecture">
+  <figcaption><span class="caption-title">FIGURE S3.</span> Architecture of 2D convolutional neural network</figcaption>
 </figure>
 
 <figure>
-  <img src="../media/cnn1d.svg" alt="Convolutional neural network 1D">
-  <figcaption><span class="caption-title">FIGURE S1.</span> Architecture of first feed forward neural network</figcaption>
+  <img src="../media/cnn1d.svg" alt="Convolutional neural network 1 dimensional architecture">
+  <figcaption><span class="caption-title">FIGURE S4.</span> Architecture of 1D convolutional neural network</figcaption>
 </figure>
 
 <figure>
-  <img src="../media/cnn1d.svg" alt="Convolutional neural network 1D">
-  <figcaption><span class="caption-title">FIGURE S1.</span> Architecture of first feed forward neural network</figcaption>
+  <img src="../media/lstm.svg" alt="Long Short-Term Memory Neural Network ArchitectureD">
+  <figcaption><span class="caption-title">FIGURE S5.</span> Long Short-Term Memory Neural Network Architecture</figcaption>
 </figure>
-
-![](../media/cnn1d.svg)
-
-![](../media/cnn2d.svg)
-
-![](../media/ff1.svg)
-
-![](../media/ff2.svg)
-
-![](../media/lstm.svg)
