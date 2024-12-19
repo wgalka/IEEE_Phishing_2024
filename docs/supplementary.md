@@ -1,2 +1,16 @@
+---
+title: "Supplementary materials"
+layout: page
+---
 
-<iframe src="https://wgalka.github.io/IEEE_Phishing_2024/media/cnn1d.pdf" width="600" height="400"></iframe>
+page paragraph
+
+![](../media/cnn1d.svg)
+
+![](../media/cnn2d.svg)
+
+![](../media/ff1.svg)
+
+![](../media/ff2.svg)
+
+![](../media/lstm.svg)
