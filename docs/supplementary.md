@@ -163,7 +163,8 @@ layout: page
 - **SD (Standard Deviation)**: A measure of the spread or dispersion of the data. It quantifies the average distance of each data point from the mean. A larger standard deviation indicates that the data points are more spread out.
 - **V (Variance)**: The square of the standard deviation. It provides a measure of how much the values in the dataset deviate from the mean.
 
-<table border="1" class="dataframe">
+<table class="dataframe">
+<caption><span class="caption-title">Table S1.</span> HRMS in each time period when desired TPR was set to 0.9</caption>
   <thead>
     <tr style="text-align: right;">
       <th>TYPE</th>
@@ -608,7 +609,8 @@ layout: page
 
 
 
-<table border="1" class="dataframe">
+<table class="dataframe">
+<caption><span class="caption-title">Table S2.</span> HRMS in each time period when desired TPR was set to 0.95</caption>
   <thead>
     <tr style="text-align: right;">
       <th>TYPE</th>
@@ -1055,7 +1057,8 @@ layout: page
 
 
 
-<table border="1" class="dataframe">
+<table class="dataframe">
+<caption><span class="caption-title">Table S3.</span> HRMS in each time period when desired TPR was set to 0.99</caption>
   <thead>
     <tr style="text-align: right;">
       <th>TYPE</th>
@@ -1499,7 +1502,8 @@ layout: page
 
 
 
-<table border="1" class="dataframe">
+<table class="dataframe">
+<caption><span class="caption-title">Table S4.</span> HRMS in each time period when desired TPR was set to 0.995</caption>
   <thead>
     <tr style="text-align: right;">
       <th>TYPE</th>
@@ -1943,7 +1947,8 @@ layout: page
 
 
 
-<table border="1" class="dataframe">
+<table class="dataframe">
+<caption><span class="caption-title">Table S5.</span> HRMS in each time period when desired TPR was set to 0.999</caption>
   <thead>
     <tr style="text-align: right;">
       <th>TYPE</th>
