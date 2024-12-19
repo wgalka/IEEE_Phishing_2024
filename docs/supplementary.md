@@ -92,3 +92,59 @@ layout: page
   <img src="../media/foldsFPheatmapG0.999.png" alt="Heat map of FP when g=0.999">
   <figcaption><span class="caption-title">FIGURE S15.</span> False Positive on test set when desired TPR was set to 0.999.</figcaption>
 </figure>
+
+## Heat maps of HMRS measure
+
+<figure>
+  <img src="../media/foldsHMRSheatmapG0.9.png" alt="Heat map of HMRS when g=0.9">
+  <figcaption><span class="caption-title">FIGURE S16.</span> HRMS on test set when desired TPR was set to 0.9.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsHMRSheatmapG0.95.png" alt="Heat map of HMRS when g=0.95">
+  <figcaption><span class="caption-title">FIGURE S17.</span> HRMS on test set when desired TPR was set to 0.95.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsHMRSheatmapG0.99.png" alt="Heat map of HMRS when g=0.99">
+  <figcaption><span class="caption-title">FIGURE S18.</span> HRMS on test set when desired TPR was set to 0.99.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsHMRSheatmapG0.995.png" alt="Heat map of HMRS when g=0.995">
+  <figcaption><span class="caption-title">FIGURE S19.</span> HRMS on test set when desired TPR was set to 0.995.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsHMRSheatmapG0.999.png" alt="Heat map of HMRS when g=0.999">
+  <figcaption><span class="caption-title">FIGURE S20.</span> HRMS on test set when desired TPR was set to 0.999.</figcaption>
+</figure>
+
+## Heatmaps of Accuracy measure
+
+<figure>
+  <img src="../media/foldsACCheatmapG0.9.png" alt="Heat map of Acccuracy when g=0.9">
+  <figcaption><span class="caption-title">FIGURE S21.</span> Accuracy on test set when desired TPR was set to 0.9.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsACCheatmapG0.95.png" alt="Heat map of Acccuracy when g=0.95">
+  <figcaption><span class="caption-title">FIGURE S22.</span> Accuracy on test set when desired TPR was set to 0.95.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsACCheatmapG0.99.png" alt="Heat map of Acccuracy when g=0.99">
+  <figcaption><span class="caption-title">FIGURE S23.</span> Accuracy on test set when desired TPR was set to 0.99.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsACCheatmapG0.995.png" alt="Heat map of Acccuracy when g=0.995">
+  <figcaption><span class="caption-title">FIGURE S24.</span> Accuracy on test set when desired TPR was set to 0.995.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsACCheatmapG0.999.png" alt="Heat map of Acccuracy when g=0.999">
+  <figcaption><span class="caption-title">FIGURE S25.</span> Accuracy on test set when desired TPR was set to 0.999.</figcaption>
+</figure>
+
+
