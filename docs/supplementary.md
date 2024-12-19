@@ -3,11 +3,18 @@ title: "Supplementary materials"
 layout: page
 ---
 
-## cnn1d
+<style>
+    .caption-title{
+        font-weight: 400;
+        collor:rgb(56, 56, 223)
+    }
+</style>
+
+## Neural networks architectures
 
 <figure>
   <img src="../media/cnn1d.svg" alt="Convolutional neural network 1D">
-  <figcaption>FIGURE S1. Architecture of first feed forward neural network</figcaption>
+  <figcaption><span class="caption-title">FIGURE S1.</span> Architecture of first feed forward neural network</figcaption>
 </figure>
 
 ![](../media/cnn1d.svg)
