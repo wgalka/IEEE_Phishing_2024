@@ -62,5 +62,33 @@ layout: page
 
 <figure>
   <img src="../media/foldsTPRheatmapG0.999.png" alt="Heat map of TPR when g=0.999">
-  <figcaption><span class="caption-title">FIGURE S9.</span> TPR on test set when desired TPR was set to 0.999.</figcaption>
+  <figcaption><span class="caption-title">FIGURE S10.</span> TPR on test set when desired TPR was set to 0.999.</figcaption>
+</figure>
+
+## Heat maps of False Positive measure
+
+<figure>
+  <img src="../media/foldsFPheatmapG0.9.png" alt="Heat map of FP when g=0.9">
+  <figcaption><span class="caption-title">FIGURE S11.</span> False Positive on test set when desired TPR was set to 0.9.</figcaption>
+</figure>
+
+
+<figure>
+  <img src="../media/foldsFPheatmapG0.95.png" alt="Heat map of FP when g=0.95">
+  <figcaption><span class="caption-title">FIGURE S12.</span> False Positive on test set when desired TPR was set to 0.95.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsFPheatmapG0.99.png" alt="Heat map of FP when g=0.99">
+  <figcaption><span class="caption-title">FIGURE S13.</span> False Positive on test set when desired TPR was set to 0.99.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsFPheatmapG0.995.png" alt="Heat map of FP when g=0.995">
+  <figcaption><span class="caption-title">FIGURE S14.</span> False Positive on test set when desired TPR was set to 0.995.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsFPheatmapG0.999.png" alt="Heat map of FP when g=0.999">
+  <figcaption><span class="caption-title">FIGURE S15.</span> False Positive on test set when desired TPR was set to 0.999.</figcaption>
 </figure>
