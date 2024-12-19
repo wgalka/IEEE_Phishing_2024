@@ -37,3 +37,30 @@ layout: page
   <img src="../media/lstm.svg" alt="Long Short-Term Memory Neural Network ArchitectureD">
   <figcaption><span class="caption-title">FIGURE S5.</span> Long Short-Term Memory Neural Network Architecture</figcaption>
 </figure>
+
+## Heat maps of True Positive Rate measure
+
+<figure>
+  <img src="../media/foldsTPRheatmapG0.9.png" alt="Heat map of TPR when g=0.9">
+  <figcaption><span class="caption-title">FIGURE S6.</span> TPR on test set when desired TPR was set to 0.9.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsTPRheatmapG0.95.png" alt="Heat map of TPR when g=0.95">
+  <figcaption><span class="caption-title">FIGURE S7.</span> TPR on test set when desired TPR was set to 0.95.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsTPRheatmapG0.99.png" alt="Heat map of TPR when g=0.99">
+  <figcaption><span class="caption-title">FIGURE S8.</span> TPR on test set when desired TPR was set to 0.99.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsTPRheatmapG0.995.png" alt="Heat map of TPR when g=0.995">
+  <figcaption><span class="caption-title">FIGURE S9.</span> TPR on test set when desired TPR was set to 0.995.</figcaption>
+</figure>
+
+<figure>
+  <img src="../media/foldsTPRheatmapG0.999.png" alt="Heat map of TPR when g=0.999">
+  <figcaption><span class="caption-title">FIGURE S9.</span> TPR on test set when desired TPR was set to 0.999.</figcaption>
+</figure>
