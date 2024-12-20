@@ -1,6 +1,6 @@
 ---
 title: "Supplementary materials"
-layout: post
+layout: default
 ---
 <style>
     .caption-title{
