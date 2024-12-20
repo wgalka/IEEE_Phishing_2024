@@ -1,5 +1,4 @@
 ---
-title: "Supplementary materials"
 layout: default
 ---
 <style>
