@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+:root {
+    --cayman-blue:#155799;
+    --cayman-green:#159957;
+}
+
+.caption-title{
+    font-weight: bold;
+    color:var(--cayman-blue);
+}

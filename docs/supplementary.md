@@ -2,12 +2,7 @@
 title: Aggregation based ensemble classifier vs neural networks models for recognizing phishing attacks
 layout: default
 ---
-<style>
-    .caption-title{
-        font-weight: bold;
-        color:rgb(56, 56, 223)
-    }
-</style>
+
 
 
 ## Neural networks architectures
