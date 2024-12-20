@@ -1,5 +1,6 @@
 
-description: Aggregation based ensemble classifier vs neural networks models for recognizing phishing attacks
+title: Aggregation based ensemble classifier vs neural networks models for recognizing phishing attacks
+description: WOJCIECH GAŁKA1, JAN G. BAZAN1, URSZULA BENTKOWSKA1, KAMIL SZWED1, MARCIN MRUKOWICZ1, PAWEŁ DRYGAŚ1, LECH ZARĘBA1, MARCIN SZPYRKA2, PIOTR SUSZALSKI 3, SEBASTIAN OBARA3
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
