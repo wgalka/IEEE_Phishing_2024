@@ -1,4 +1,5 @@
 ---
+title: Aggregation based ensemble classifier vs neural networks models for recognizing phishing attacks
 layout: default
 ---
 <style>
