@@ -6,12 +6,11 @@ $section-headings-color: #155799 !default;
 @import "{{ site.theme }}";
 
 .caption-title{
-    font-style: italic;
     font-weight: bold;
     color: $section-headings-color;
 }
 
-caption {
+caption, figcaption {
     caption-side: bottom; /* Moves caption below the table */
     text-align: left;     /* Aligns caption to the left */
     font-style: italic;   /* Optional: Makes the caption italicized */
