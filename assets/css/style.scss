@@ -1,9 +1,11 @@
 ---
 ---
 
+$section-headings-color: #155799 !default;
+
 @import "{{ site.theme }}";
 
-$section-headings-color: #155799 !default;
+
 
 .caption-title{
     font-weight: bold;
